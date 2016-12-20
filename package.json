@@ -1,0 +1,19 @@
+{
+  "name": "coderfriends",
+  "version": "1.0.0",
+  "description": "<img src=\"https://devmounta.in/img/logowhiteblue.png\" width=\"250\" align=\"right\">",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/asemle/CoderFriends.git"
+  },
+  "author": "andrew",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/asemle/CoderFriends/issues"
+  },
+  "homepage": "https://github.com/asemle/CoderFriends#readme"
+}
